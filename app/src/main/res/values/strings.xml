@@ -1,4 +1,24 @@
 <resources>
     <string name="app_name">Restaurante favorito</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps">Restaurante favorito</string>
+    <string-array name="names">
+        <item>Seleccionar</item>
+        <item>McDonald´s Puerta del Norte</item>
+        <item>McDonald´s Bosque plaza</item>
+        <item>McDonald´s Aventura</item>
+        <item>McDonald´s</item>
+        <item>Kiosko McDonald´s San Antonio</item>
+        <item>McDonald´s Jumbo de la 65</item>
+        <item>McDonald´s Avenida Nutibara</item>
+        <item>McDonald´s Envigado</item>
+        <item>McDonald´s Los molinos</item>
+        <item>McDonals´s</item>
+        <item>McDonald´s El tesoro</item>
+        <item>McDonald´s</item>
+        <item>McDonald´s Santafé Medellín</item>
+        <item>McDonald´s Jumbo las Vegas</item>
+        <item>McDonald´s Las Vegas</item>
+        <item>McDonald´s Postres</item>
+        <item>McDonald´s Mayorca</item>
+    </string-array>
 </resources>
